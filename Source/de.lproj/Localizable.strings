@@ -1,0 +1,67 @@
+
+"Favorites" = "Favoriten";
+"Recents" = "Anrufliste";
+"Keypad" = "Ziffernblock";
+"Cards" = "Karten";
+
+"Choose a contact to add to Favorites" = "Kontakt auswählen für Favoriten";
+
+"Clear All Recents" = "Alle löschen";
+
+"Card Store" = "Karten kaufen";
+"My Calling Card" = "Meine Karte";
+
+"Card Name" = "Kartenname";
+
+"Add Card..." = "Karte hinzufügen...";
+"New Card" = "Neue Karte";
+"Edit Card" = "Bearbeiten";
+"Delete Card" = "Karte löschen";
+
+"Cancel" = "Abbrechen";
+
+"Dial Sequence" = "Wahlfolge";
+
+"Dial" = "Ziffernfolge";
+"Pause" = "Pause";
+"1 Second" = "1 Sekunde";
+"{0} Seconds" = "{0} Sekunden";
+"Dial Access" = "Einwahl";
+"PIN" = "PIN";
+"None" = "Kein";
+"Dial Contact" = "Kontaktnummer";
+"Add Pause" = "Pause hinzufügen";
+"Add Custom Number" = "Ziffernfolge hinzufügen";
+
+"Edit {0}" = "Bearbeiten";
+
+"Replace '+' With" = "'+' ersetzen mit";
+"Skip Replacement For" = "Nicht ersetzen für";
+"Remove Country Code" = "Landesvorwahl entfernen";
+
+"Prefix" = "Prefix";
+"The '+' prefix will be replaced with this number (e.g. 011)." = "Der '+' prefix wird mit dieser nummer ersetzt (z.B. 011).";
+"Skip" = "Nicht Ersetzen";
+"Do not replace '+' for this country code (e.g. local country code)." = "'+' wird nicht ersetzt für diese Landesvorwahl.";
+"Country Code" = "Landesvorwahl";
+"This country code will be removed before dialing (e.g. 49)." = "Diese Landesvorwahl wird vor dem Anruf entfernt (z.B. 49).";
+
+"Call"="Anrufen";
+
+"Call without using a calling card?" = "Den Anruf ohne eine Karte beginnen?";
+"Calling '{0}' is not supported on this device." = "Ein Anruf von '{0}' ist auf diesem Gerät nicht unterstützt.";
+"Call '{0}' without a calling card access number?" = "Den Anruf von '{0}' ohene eine gültige Karteneinwahlnummer beginnen?";
+"No" = "Nein";
+"Yes" = "Ja";
+"OK" = "OK";
+
+"Open in Safari" = "In Safari öffnen";
+
+"Enter the card access number." = "Geben Sie die Karteneinwahlnummer ein.";
+"Enter the card PIN number." = "Geben Sie die PIN-nummer ein.";
+
+"Mobile" = "Mobil";
+"Work" = "Arbeit";
+"Home" = "Privat";
+"Main" = "Haupt";
+"Other" = "Andere";

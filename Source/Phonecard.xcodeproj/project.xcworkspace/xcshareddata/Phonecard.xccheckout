@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>46BBCA50-D54C-465C-9EA1-6E2DBF915317</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Phonecard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>40E3B039-695C-4F90-B12A-1388BA864F89</key>
+		<string>https://github.com/lutzroeder/Phonecard.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Source/Phonecard.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>40E3B039-695C-4F90-B12A-1388BA864F89</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lutzroeder/Phonecard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>40E3B039-695C-4F90-B12A-1388BA864F89</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>40E3B039-695C-4F90-B12A-1388BA864F89</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Phonecard</string>
+		</dict>
+	</array>
+</dict>
+</plist>

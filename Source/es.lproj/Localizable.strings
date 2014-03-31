@@ -1,0 +1,66 @@
+
+"Favorites" = "Favoritos";
+"Recents" = "Recientes";
+"Keypad" = "Teclado";
+"Cards" = "Tarjetas";
+
+"Choose a contact to add to Favorites" = "Seleccione un contacto para añadir a favoritos";
+
+"Clear All Recents" = "Borrar recientes";
+
+"Card Store" = "Tarjeta de la tienda";
+"My Calling Card" = "Mi Tarjeta";
+
+"Card Name" = "Nombre";
+
+"Add Card..." = "Añadir tarjeta...";
+"New Card" = "Nueva Tarjeta";
+"Edit Card" = "Editar tarjeta";
+"Delete Card" = "Eliminar tarjeta";
+
+"Cancel" = "Cancelar";
+
+"Dial Sequence" = "Tarjeta acceso";
+
+"Dial" = "Llamar";
+"Pause" = "Pausa";
+"None" = "No tiene";
+"1 Second" = "1 segundo";
+"{0} Seconds" = "{0} segundos";
+"Dial Access" = "Número de tarjeta";
+"PIN" = "PIN";
+"Dial Contact" = "Llamar contacto";
+"Add Pause" = "Añadir pausa";
+"Add Custom Number" = "Añadir número personalizado";
+
+"Edit {0}" = "Modificar";
+
+"Replace '+' With" = "Substituir + por";
+"Skip Replacement For" = "No substituir";
+"Remove Country Code" = "Código de país a quitar";
+"Prefix" = "Prefijo";
+"The '+' prefix will be replaced with this number (e.g. 011)." = "El prefijo '+' será substituido por este número (por ejemplo 011)";
+"Skip" = "Pasar";
+"Do not replace '+' for this country code (e.g. local country code)." = "No reemplace el '+' por el código de país (por ejemplo el código local de país)";
+"Country Code" = "Código de país";
+"This country code will be removed before dialing (e.g. 49)." = "Este código de país no estará incluído en el número marcado (por ejemplo 49)";
+
+"Call"="Llamar";
+
+"Call without using a calling card?" = "¿Llamar sin usar la tarjeta?";
+"Calling '{0}' is not supported on this device." = "Las llamadas a {0} no están soportadas en este dispositivo";
+"Call '{0}' without a calling card access number?" = "¿Desea llamar a {0} sin usar el código de acceso de la tarjeta de llamada?";
+"No" = "No";
+"Yes" = "Sí";
+"OK" = "OK";
+
+"Open in Safari" = "Abierto en Safari";
+
+"Enter the card access number." = "Indique el número de la tarjeta";
+"Enter the card PIN number." = "Indique el PIN";
+
+"Mobile" = "móvil";
+"Work" = "trabajo";
+"Home" = "casa";
+"Main" = "principal";
+"Other" = "otro";

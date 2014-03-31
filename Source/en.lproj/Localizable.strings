@@ -1,0 +1,67 @@
+
+"Favorites" = "Favorites";
+"Recents" = "Recents";
+"Keypad" = "Keypad";
+"Cards" = "Cards";
+
+"Choose a contact to add to Favorites" = "Choose a contact to add to Favorites";
+
+"Clear All Recents" = "Clear All Recents";
+
+"Card Store" = "Card Store";
+"My Calling Card" = "My Calling Card";
+
+"Card Name" = "Card Name";
+
+"Add Card..." = "Add Card...";
+"New Card" = "New Card";
+"Edit Card" = "Edit Card";
+"Delete Card" = "Delete Card";
+
+"Cancel" = "Cancel";
+
+"Dial Sequence" = "Dial Sequence";
+
+"Dial" = "Dial";
+"Pause" = "Pause";
+"None" = "None";
+"1 Second" = "1 Second";
+"{0} Seconds" = "{0} Seconds";
+"Dial Access" = "Dial Access";
+"PIN" = "PIN";
+"Dial Contact" = "Dial Contact";
+"Add Pause" = "Add Pause";
+"Add Custom Number" = "Add Custom Number";
+
+"Edit {0}" = "Edit {0}";
+
+"Replace '+' With" = "Replace '+' With";
+"Skip Replacement For" = "Skip Replacement For";
+"Remove Country Code" = "Remove Country Code";
+
+"Prefix" = "Prefix";
+"The '+' prefix will be replaced with this number (e.g. 011)." = "The '+' prefix will be replaced with this number (e.g. 011).";
+"Skip" = "Skip";
+"Do not replace '+' for this country code (e.g. local country code)." = "Do not replace '+' for this country code (e.g. local country code).";
+"Country Code" = "Country Code";
+"This country code will be removed before dialing (e.g. 49)." = "This country code will be removed before dialing (e.g. 49).";
+
+"Call"="Call";
+
+"Call without using a calling card?" = "Call without using a calling card?";
+"Calling '{0}' is not supported on this device." = "Calling '{0}' is not supported on this device.";
+"Call '{0}' without a calling card access number?" = "Call '{0}' without a calling card access number?";
+"No" = "No";
+"Yes" = "Yes";
+"OK" = "OK";
+
+"Open in Safari" = "Open in Safari";
+
+"Enter the card access number." = "Enter the card access number.";
+"Enter the card PIN number." = "Enter the card PIN number.";
+
+"Mobile" = "Mobile";
+"Work" = "Work";
+"Home" = "Home";
+"Main" = "Main";
+"Other" = "Other";

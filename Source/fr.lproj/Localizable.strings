@@ -1,0 +1,67 @@
+
+"Favorites" = "Favoris";
+"Recents" = "Historique";
+"Keypad" = "Clavier";
+"Cards" = "Cartes";
+
+"Choose a contact to add to Favorites" = "Choisissez un contact à ajouter aux favoris";
+
+"Clear All Recents" = "Effacer l’historique";
+
+"Card Store" = "La boutique de carte";
+"My Calling Card" = "Ma carte d’appel";
+
+"Card Name" = "Nom de la carte";
+
+"Add Card..." = "Ajouter carte...";
+"New Card" = "Nouvelle carte";
+"Edit Card" = "Modifier la carte";
+"Delete Card" = "Supprimer la carte";
+
+"Cancel" = "Annuler";
+
+"Dial Sequence" = "Séquence de composition";
+
+"Dial" = "Composer";
+"Pause" = "Pause";
+"None" = "Aucun";
+"1 Second" = "1 seconde";
+"{0} Seconds" = "{0} secondes";
+"Dial Access" = "Indicatif d’accès";
+"PIN" = "NIP";
+"Dial Contact" = "Appeler le contact";
+"Add Pause" = "Ajouter Pause";
+"Add Custom Number" = "Ajouter un numéro personnalisé";
+
+"Edit {0}" = "Modifier";
+
+"Replace '+' With" = "Substituer ‘+’ par";
+"Skip Replacement For" = "Omettre la substitution pour";
+"Remove Country Code" = "Enlever le code pays";
+
+"Prefix" = "Préfixe";
+"The '+' prefix will be replaced with this number (e.g. 011)." = "Le préfixe ‘+’ sera substitué par ce numéro (p. ex.: 011).";
+"Skip" = "Omettre";
+"Do not replace '+' for this country code (e.g. local country code)." = "Ne pas substituer le ‘+’ pour ce code pays (p. ex.: code pays local).";
+"Country Code" = "Code pays";
+"This country code will be removed before dialing (e.g. 49)." = "Ce code pays sera enlevé avant la composition (p. ex.: 49).";
+
+"Call"="Appeler";
+
+"Call without using a calling card?" = "Appeler sans utiliser une carte d’appel?";
+"Calling '{0}' is not supported on this device." = "Appeler ‘{0}’ n’est pas supporté sur cet appareil.";
+"Call '{0}' without a calling card access number?" = "Appeler ‘{0}’ sans un numéro d’accès de carte d’appel?";
+"No" = "Non";
+"Yes" = "Oui";
+"OK" = "OK";
+
+"Open in Safari" = "Ouvrir dans Safari";
+
+"Enter the card access number." = "Entrez le numéro d’accès de la carte.";
+"Enter the card PIN number." = "Entrez le NIP de la carte.";
+
+"Mobile" = "mobile";
+"Work" = "bureau";
+"Home" = "domicile";
+"Main" = "principal";
+"Other" = "autre";
