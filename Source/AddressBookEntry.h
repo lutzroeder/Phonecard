@@ -7,6 +7,6 @@
 
 @property (readwrite, assign) ABRecordRef person;
 @property (readwrite, retain) NSString* label;
-@property (readwrite, assign) NSInteger identifier;
+@property (readwrite, assign) ABMultiValueIdentifier identifier;
 
 @end

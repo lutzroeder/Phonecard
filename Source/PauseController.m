@@ -50,7 +50,8 @@
         cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"Pause"] autorelease];
     }
 
-    NSString* value = [NSString stringWithFormat:@"%d", (indexPath.row + 1)];
+    long row = (indexPath.row + 1);
+    NSString* value = [NSString stringWithFormat:@"%ld", row];
     if ([_dialAction.value isEqualToString:value])
     {
         cell.accessoryType = UITableViewCellAccessoryCheckmark;
@@ -62,7 +63,8 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    _dialAction.value = [NSString stringWithFormat:@"%d", (indexPath.row + 1)];
+    long row = (indexPath.row + 1);
+    _dialAction.value = [NSString stringWithFormat:@"%ld", row];
     
     for (int i = 0; i < [tableView numberOfRowsInSection:0]; i++)
     {

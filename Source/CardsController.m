@@ -120,7 +120,7 @@
     webViewController.title = NSLocalizedString(@"Card Store", nil);
     
     UINavigationController* navigationController = [[[NavigationController alloc] initWithRootViewController:webViewController] autorelease];
-    [self presentModalViewController:navigationController animated:YES];
+    [self presentViewController:navigationController animated:YES completion:nil];
 }
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView*)tableView 

@@ -48,15 +48,7 @@
     [_contactsController setTabBarItem:contactsItem];
     [contactsItem release];
     
-    UIViewController *keyPadController = nil;
-    if ([[[[[UIDevice currentDevice] systemVersion] componentsSeparatedByString:@"."] objectAtIndex:0] intValue] < 7)
-    {
-        keyPadController = [[iOS6_KeyPadController alloc] initWithServiceProvider:self];
-    }
-    else
-    {
-        keyPadController = [[KeyPadController alloc] initWithServiceProvider:self];
-    }
+    UIViewController *keyPadController = [[KeyPadController alloc] initWithServiceProvider:self];
 
     CardsController* cardsController = [[CardsController alloc] initWithServiceProvider:self];
     UINavigationController *cardsNavigationController = [[NavigationController alloc] initWithRootViewController:cardsController];

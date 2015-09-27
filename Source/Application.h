@@ -9,7 +9,6 @@
 #import "RecentsController.h"
 #import "ContactsController.h"
 #import "KeyPadController.h"
-#import "iOS6_KeyPadController.h"
 #import "CardsController.h"
 #import "UINavigationBar.h"
 

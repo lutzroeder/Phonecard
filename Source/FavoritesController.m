@@ -62,7 +62,7 @@
 	peoplePickerNavigationController.displayedProperties = [NSArray arrayWithObject:[NSNumber numberWithInt:kABPersonPhoneProperty]];
 	peoplePickerNavigationController.peoplePickerDelegate = self;
     peoplePickerNavigationController.navigationBar.topItem.prompt = NSLocalizedString(@"Choose a contact to add to Favorites", nil);
-    [self presentModalViewController:peoplePickerNavigationController animated:YES];
+    [self presentViewController:peoplePickerNavigationController animated:YES completion:nil];
     [peoplePickerNavigationController release];
 }
 
@@ -82,7 +82,7 @@
      
 - (void)peoplePickerNavigationControllerDidCancel:(ABPeoplePickerNavigationController*)peoplePicker;
 {
-	[self dismissModalViewControllerAnimated:YES];
+	[self dismissViewControllerAnimated:YES completion:nil];
 }
 
 - (BOOL)peoplePickerNavigationController:(ABPeoplePickerNavigationController*)peoplePicker shouldContinueAfterSelectingPerson:(ABRecordRef)person
@@ -111,7 +111,7 @@
     
     [favorite release];
     
-    [self dismissModalViewControllerAnimated:YES];
+    [self dismissViewControllerAnimated:YES completion:nil];
     
     [self updateEditButton];
 

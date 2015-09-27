@@ -37,20 +37,6 @@
 		7BA18BDF139761D800B891C3 /* NumberController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BA18BDE139761D800B891C3 /* NumberController.m */; };
 		7BA22387138A096100BAADAA /* FavoritesController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BA22386138A096100BAADAA /* FavoritesController.m */; };
 		7BA2238A138A0D6F00BAADAA /* RecentsController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BA22389138A0D6E00BAADAA /* RecentsController.m */; };
-		7BA22395138A0E5100BAADAA /* iOS6_KeyPadController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BA22394138A0E5100BAADAA /* iOS6_KeyPadController.m */; };
-		7BA223E3138A0FD000BAADAA /* 0@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA2239B138A0FD000BAADAA /* 0@2x.png */; };
-		7BA223E7138A0FD000BAADAA /* 1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA2239F138A0FD000BAADAA /* 1@2x.png */; };
-		7BA223EB138A0FD000BAADAA /* 2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223A3138A0FD000BAADAA /* 2@2x.png */; };
-		7BA223EF138A0FD000BAADAA /* 3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223A7138A0FD000BAADAA /* 3@2x.png */; };
-		7BA223F3138A0FD000BAADAA /* 4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223AB138A0FD000BAADAA /* 4@2x.png */; };
-		7BA223F7138A0FD000BAADAA /* 5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223AF138A0FD000BAADAA /* 5@2x.png */; };
-		7BA223FB138A0FD000BAADAA /* 6@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223B3138A0FD000BAADAA /* 6@2x.png */; };
-		7BA223FF138A0FD000BAADAA /* 7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223B7138A0FD000BAADAA /* 7@2x.png */; };
-		7BA22403138A0FD000BAADAA /* 8@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223BB138A0FD000BAADAA /* 8@2x.png */; };
-		7BA22407138A0FD000BAADAA /* 9@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223BF138A0FD000BAADAA /* 9@2x.png */; };
-		7BA2240B138A0FD000BAADAA /* Back@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223C3138A0FD000BAADAA /* Back@2x.png */; };
-		7BA2240F138A0FD000BAADAA /* Call@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223C7138A0FD000BAADAA /* Call@2x.png */; };
-		7BA22411138A0FD000BAADAA /* Call_@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223C9138A0FD000BAADAA /* Call_@2x.png */; };
 		7BA22412138A0FD000BAADAA /* Cards.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223CA138A0FD000BAADAA /* Cards.png */; };
 		7BA22413138A0FD000BAADAA /* Cards@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223CB138A0FD000BAADAA /* Cards@2x.png */; };
 		7BA22414138A0FD000BAADAA /* Checkmark.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223CC138A0FD000BAADAA /* Checkmark.png */; };
@@ -64,9 +50,6 @@
 		7BA2241C138A0FD000BAADAA /* KeyPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223D4138A0FD000BAADAA /* KeyPad.png */; };
 		7BA2241D138A0FD000BAADAA /* KeyPad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223D5138A0FD000BAADAA /* KeyPad@2x.png */; };
 		7BA2241F138A0FD000BAADAA /* None@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223D7138A0FD000BAADAA /* None@2x.png */; };
-		7BA22421138A0FD000BAADAA /* Number@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223D9138A0FD000BAADAA /* Number@2x.png */; };
-		7BA22423138A0FD000BAADAA /* Plus@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223DB138A0FD000BAADAA /* Plus@2x.png */; };
-		7BA22427138A0FD000BAADAA /* Route@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BA223DF138A0FD000BAADAA /* Route@2x.png */; };
 		7BA2242C138A10A200BAADAA /* CardsController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BA2242B138A10A200BAADAA /* CardsController.m */; };
 		7BBFDA3317866DB100463089 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BBFDA3217866DB100463089 /* Media.xcassets */; };
 		7BC2B67A14CA9DB40043B966 /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BC2B67914CA9DB40043B966 /* Background.png */; };
@@ -76,25 +59,12 @@
 		7BD45CB214CA4A0D003D0DA1 /* UINavigationBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BD45CB114CA4A0C003D0DA1 /* UINavigationBar.m */; };
 		7BD6CA9B17AD04CA000FBAEF /* RecentCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BD6CA9A17AD04CA000FBAEF /* RecentCell.m */; };
 		7BD841A713962C5B0082E17B /* DialContactController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BD841A613962C5B0082E17B /* DialContactController.m */; };
-		7BDB9397160D0EC400E36EB7 /* 1_@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BDB9396160D0EC400E36EB7 /* 1_@2x.png */; };
 		7BE2C7AF177D80B4000B22F1 /* UIFont.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BE2C7AE177D80B4000B22F1 /* UIFont.m */; };
 		7BE30868138A1B2A0061374F /* ContactsController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BE30867138A1B2A0061374F /* ContactsController.m */; };
 		7BE3086B138A1C230061374F /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BE3086A138A1C230061374F /* AddressBook.framework */; };
 		7BE3086D138A1C260061374F /* AddressBookUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BE3086C138A1C260061374F /* AddressBookUI.framework */; };
-		7BE84F5F160D134900ABAAB6 /* 2_@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BE84F5E160D134900ABAAB6 /* 2_@2x.png */; };
-		7BE84F62160D143800ABAAB6 /* 3_@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BE84F61160D143800ABAAB6 /* 3_@2x.png */; };
-		7BE84F64160D14B700ABAAB6 /* Back_@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BE84F63160D14B700ABAAB6 /* Back_@2x.png */; };
 		7BE84F67160D14C900ABAAB6 /* BorderBottom.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BE84F65160D14C900ABAAB6 /* BorderBottom.png */; };
 		7BE84F68160D14C900ABAAB6 /* BorderTop.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BE84F66160D14C900ABAAB6 /* BorderTop.png */; };
-		7BE84F6C160D1A0900ABAAB6 /* 0_@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BE84F6B160D1A0900ABAAB6 /* 0_@2x.png */; };
-		7BE84F6E160D1C8E00ABAAB6 /* 4_@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BE84F6D160D1C8E00ABAAB6 /* 4_@2x.png */; };
-		7BE84F70160D1C9400ABAAB6 /* 5_@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BE84F6F160D1C9400ABAAB6 /* 5_@2x.png */; };
-		7BE84F72160D1C9900ABAAB6 /* 6_@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BE84F71160D1C9900ABAAB6 /* 6_@2x.png */; };
-		7BE84F74160D1C9D00ABAAB6 /* 7_@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BE84F73160D1C9D00ABAAB6 /* 7_@2x.png */; };
-		7BE84F76160D1CA000ABAAB6 /* 8_@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BE84F75160D1CA000ABAAB6 /* 8_@2x.png */; };
-		7BE84F78160D1CA600ABAAB6 /* 9_@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BE84F77160D1CA600ABAAB6 /* 9_@2x.png */; };
-		7BE84F7A160D1CB200ABAAB6 /* Plus_@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BE84F79160D1CB200ABAAB6 /* Plus_@2x.png */; };
-		7BE84F7C160D1CB700ABAAB6 /* Route_@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BE84F7B160D1CB700ABAAB6 /* Route_@2x.png */; };
 		7BFC8838138A3BC5001DFD3C /* AddressBookService.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BFC8837138A3BC5001DFD3C /* AddressBookService.m */; };
 		7BFC883B138A3C01001DFD3C /* FavoriteCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BFC883A138A3C01001DFD3C /* FavoriteCell.m */; };
 		7BFC8849138A43AF001DFD3C /* 0.aif in Resources */ = {isa = PBXBuildFile; fileRef = 7BFC883D138A43AF001DFD3C /* 0.aif */; };
@@ -168,21 +138,6 @@
 		7BA22386138A096100BAADAA /* FavoritesController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FavoritesController.m; sourceTree = SOURCE_ROOT; };
 		7BA22388138A0D6E00BAADAA /* RecentsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecentsController.h; sourceTree = "<group>"; };
 		7BA22389138A0D6E00BAADAA /* RecentsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecentsController.m; sourceTree = "<group>"; };
-		7BA22393138A0E5100BAADAA /* iOS6_KeyPadController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iOS6_KeyPadController.h; sourceTree = "<group>"; };
-		7BA22394138A0E5100BAADAA /* iOS6_KeyPadController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iOS6_KeyPadController.m; sourceTree = "<group>"; };
-		7BA2239B138A0FD000BAADAA /* 0@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "0@2x.png"; sourceTree = "<group>"; };
-		7BA2239F138A0FD000BAADAA /* 1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1@2x.png"; sourceTree = "<group>"; };
-		7BA223A3138A0FD000BAADAA /* 2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2@2x.png"; sourceTree = "<group>"; };
-		7BA223A7138A0FD000BAADAA /* 3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "3@2x.png"; sourceTree = "<group>"; };
-		7BA223AB138A0FD000BAADAA /* 4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "4@2x.png"; sourceTree = "<group>"; };
-		7BA223AF138A0FD000BAADAA /* 5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "5@2x.png"; sourceTree = "<group>"; };
-		7BA223B3138A0FD000BAADAA /* 6@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "6@2x.png"; sourceTree = "<group>"; };
-		7BA223B7138A0FD000BAADAA /* 7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "7@2x.png"; sourceTree = "<group>"; };
-		7BA223BB138A0FD000BAADAA /* 8@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "8@2x.png"; sourceTree = "<group>"; };
-		7BA223BF138A0FD000BAADAA /* 9@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "9@2x.png"; sourceTree = "<group>"; };
-		7BA223C3138A0FD000BAADAA /* Back@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Back@2x.png"; sourceTree = "<group>"; };
-		7BA223C7138A0FD000BAADAA /* Call@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Call@2x.png"; sourceTree = "<group>"; };
-		7BA223C9138A0FD000BAADAA /* Call_@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Call_@2x.png"; sourceTree = "<group>"; };
 		7BA223CA138A0FD000BAADAA /* Cards.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cards.png; sourceTree = "<group>"; };
 		7BA223CB138A0FD000BAADAA /* Cards@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Cards@2x.png"; sourceTree = "<group>"; };
 		7BA223CC138A0FD000BAADAA /* Checkmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Checkmark.png; sourceTree = "<group>"; };
@@ -196,9 +151,6 @@
 		7BA223D4138A0FD000BAADAA /* KeyPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KeyPad.png; sourceTree = "<group>"; };
 		7BA223D5138A0FD000BAADAA /* KeyPad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "KeyPad@2x.png"; sourceTree = "<group>"; };
 		7BA223D7138A0FD000BAADAA /* None@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "None@2x.png"; sourceTree = "<group>"; };
-		7BA223D9138A0FD000BAADAA /* Number@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Number@2x.png"; sourceTree = "<group>"; };
-		7BA223DB138A0FD000BAADAA /* Plus@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Plus@2x.png"; sourceTree = "<group>"; };
-		7BA223DF138A0FD000BAADAA /* Route@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Route@2x.png"; sourceTree = "<group>"; };
 		7BA2242A138A10A200BAADAA /* CardsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CardsController.h; sourceTree = "<group>"; };
 		7BA2242B138A10A200BAADAA /* CardsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CardsController.m; sourceTree = "<group>"; };
 		7BA22431138A11BB00BAADAA /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -215,27 +167,14 @@
 		7BD6CA9A17AD04CA000FBAEF /* RecentCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecentCell.m; sourceTree = SOURCE_ROOT; };
 		7BD841A513962C5B0082E17B /* DialContactController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DialContactController.h; sourceTree = SOURCE_ROOT; };
 		7BD841A613962C5B0082E17B /* DialContactController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DialContactController.m; sourceTree = SOURCE_ROOT; };
-		7BDB9396160D0EC400E36EB7 /* 1_@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "1_@2x.png"; path = "Images/1_@2x.png"; sourceTree = SOURCE_ROOT; };
 		7BE2C7AD177D80B4000B22F1 /* UIFont.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIFont.h; sourceTree = SOURCE_ROOT; };
 		7BE2C7AE177D80B4000B22F1 /* UIFont.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIFont.m; sourceTree = SOURCE_ROOT; };
 		7BE30866138A1B2A0061374F /* ContactsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactsController.h; sourceTree = "<group>"; };
 		7BE30867138A1B2A0061374F /* ContactsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactsController.m; sourceTree = "<group>"; };
 		7BE3086A138A1C230061374F /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
 		7BE3086C138A1C260061374F /* AddressBookUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBookUI.framework; path = System/Library/Frameworks/AddressBookUI.framework; sourceTree = SDKROOT; };
-		7BE84F5E160D134900ABAAB6 /* 2_@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "2_@2x.png"; path = "Images/2_@2x.png"; sourceTree = SOURCE_ROOT; };
-		7BE84F61160D143800ABAAB6 /* 3_@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "3_@2x.png"; path = "Images/3_@2x.png"; sourceTree = SOURCE_ROOT; };
-		7BE84F63160D14B700ABAAB6 /* Back_@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Back_@2x.png"; path = "Images/Back_@2x.png"; sourceTree = SOURCE_ROOT; };
 		7BE84F65160D14C900ABAAB6 /* BorderBottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BorderBottom.png; path = Images/BorderBottom.png; sourceTree = SOURCE_ROOT; };
 		7BE84F66160D14C900ABAAB6 /* BorderTop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BorderTop.png; path = Images/BorderTop.png; sourceTree = SOURCE_ROOT; };
-		7BE84F6B160D1A0900ABAAB6 /* 0_@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "0_@2x.png"; path = "Images/0_@2x.png"; sourceTree = SOURCE_ROOT; };
-		7BE84F6D160D1C8E00ABAAB6 /* 4_@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "4_@2x.png"; path = "Images/4_@2x.png"; sourceTree = SOURCE_ROOT; };
-		7BE84F6F160D1C9400ABAAB6 /* 5_@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "5_@2x.png"; path = "Images/5_@2x.png"; sourceTree = SOURCE_ROOT; };
-		7BE84F71160D1C9900ABAAB6 /* 6_@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "6_@2x.png"; path = "Images/6_@2x.png"; sourceTree = SOURCE_ROOT; };
-		7BE84F73160D1C9D00ABAAB6 /* 7_@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "7_@2x.png"; path = "Images/7_@2x.png"; sourceTree = SOURCE_ROOT; };
-		7BE84F75160D1CA000ABAAB6 /* 8_@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "8_@2x.png"; path = "Images/8_@2x.png"; sourceTree = SOURCE_ROOT; };
-		7BE84F77160D1CA600ABAAB6 /* 9_@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "9_@2x.png"; path = "Images/9_@2x.png"; sourceTree = SOURCE_ROOT; };
-		7BE84F79160D1CB200ABAAB6 /* Plus_@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Plus_@2x.png"; path = "Images/Plus_@2x.png"; sourceTree = SOURCE_ROOT; };
-		7BE84F7B160D1CB700ABAAB6 /* Route_@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Route_@2x.png"; path = "Images/Route_@2x.png"; sourceTree = SOURCE_ROOT; };
 		7BED537914AFF41600CB8276 /* ServiceProvider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ServiceProvider.h; sourceTree = SOURCE_ROOT; };
 		7BFC8836138A3BC5001DFD3C /* AddressBookService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddressBookService.h; sourceTree = SOURCE_ROOT; };
 		7BFC8837138A3BC5001DFD3C /* AddressBookService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddressBookService.m; sourceTree = SOURCE_ROOT; };
@@ -339,8 +278,6 @@
 				7BD6CA9A17AD04CA000FBAEF /* RecentCell.m */,
 				7BE30866138A1B2A0061374F /* ContactsController.h */,
 				7BE30867138A1B2A0061374F /* ContactsController.m */,
-				7BA22393138A0E5100BAADAA /* iOS6_KeyPadController.h */,
-				7BA22394138A0E5100BAADAA /* iOS6_KeyPadController.m */,
 				7B157BB51783F2DF0050187F /* KeyPadController.h */,
 				7B157BB61783F2DF0050187F /* KeyPadController.m */,
 				7B157BAF1783F2190050187F /* KeyPadButton.h */,
@@ -385,30 +322,6 @@
 		7BA22399138A0FD000BAADAA /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				7BA2239B138A0FD000BAADAA /* 0@2x.png */,
-				7BE84F6B160D1A0900ABAAB6 /* 0_@2x.png */,
-				7BA2239F138A0FD000BAADAA /* 1@2x.png */,
-				7BDB9396160D0EC400E36EB7 /* 1_@2x.png */,
-				7BA223A3138A0FD000BAADAA /* 2@2x.png */,
-				7BE84F5E160D134900ABAAB6 /* 2_@2x.png */,
-				7BA223A7138A0FD000BAADAA /* 3@2x.png */,
-				7BE84F61160D143800ABAAB6 /* 3_@2x.png */,
-				7BA223AB138A0FD000BAADAA /* 4@2x.png */,
-				7BE84F6D160D1C8E00ABAAB6 /* 4_@2x.png */,
-				7BA223AF138A0FD000BAADAA /* 5@2x.png */,
-				7BE84F6F160D1C9400ABAAB6 /* 5_@2x.png */,
-				7BA223B3138A0FD000BAADAA /* 6@2x.png */,
-				7BE84F71160D1C9900ABAAB6 /* 6_@2x.png */,
-				7BA223B7138A0FD000BAADAA /* 7@2x.png */,
-				7BE84F73160D1C9D00ABAAB6 /* 7_@2x.png */,
-				7BA223BB138A0FD000BAADAA /* 8@2x.png */,
-				7BE84F75160D1CA000ABAAB6 /* 8_@2x.png */,
-				7BA223BF138A0FD000BAADAA /* 9@2x.png */,
-				7BE84F77160D1CA600ABAAB6 /* 9_@2x.png */,
-				7BA223C3138A0FD000BAADAA /* Back@2x.png */,
-				7BE84F63160D14B700ABAAB6 /* Back_@2x.png */,
-				7BA223C7138A0FD000BAADAA /* Call@2x.png */,
-				7BA223C9138A0FD000BAADAA /* Call_@2x.png */,
 				7BA223CA138A0FD000BAADAA /* Cards.png */,
 				7BA223CB138A0FD000BAADAA /* Cards@2x.png */,
 				7BA223CC138A0FD000BAADAA /* Checkmark.png */,
@@ -422,11 +335,6 @@
 				7BA223D4138A0FD000BAADAA /* KeyPad.png */,
 				7BA223D5138A0FD000BAADAA /* KeyPad@2x.png */,
 				7BA223D7138A0FD000BAADAA /* None@2x.png */,
-				7BA223D9138A0FD000BAADAA /* Number@2x.png */,
-				7BA223DB138A0FD000BAADAA /* Plus@2x.png */,
-				7BE84F79160D1CB200ABAAB6 /* Plus_@2x.png */,
-				7BA223DF138A0FD000BAADAA /* Route@2x.png */,
-				7BE84F7B160D1CB700ABAAB6 /* Route_@2x.png */,
 				7BD45C9F14CA3BD4003D0DA1 /* NavigationBar.png */,
 				7BD45CA014CA3BD4003D0DA1 /* NavigationBar@2x.png */,
 				7BC2B67914CA9DB40043B966 /* Background.png */,
@@ -483,7 +391,7 @@
 		7B38483D1389F77100BCE643 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0500;
+				LastUpgradeCheck = 0820;
 				TargetAttributes = {
 					7B3848451389F77100BCE643 = {
 						DevelopmentTeam = WVL3BAUAQW;
@@ -513,21 +421,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				7B3848551389F77100BCE643 /* Localizable.strings in Resources */,
-				7BA223E3138A0FD000BAADAA /* 0@2x.png in Resources */,
-				7BA223E7138A0FD000BAADAA /* 1@2x.png in Resources */,
-				7BA223EB138A0FD000BAADAA /* 2@2x.png in Resources */,
-				7BA223EF138A0FD000BAADAA /* 3@2x.png in Resources */,
-				7BA223F3138A0FD000BAADAA /* 4@2x.png in Resources */,
-				7BA223F7138A0FD000BAADAA /* 5@2x.png in Resources */,
-				7BA223FB138A0FD000BAADAA /* 6@2x.png in Resources */,
-				7BA223FF138A0FD000BAADAA /* 7@2x.png in Resources */,
-				7BA22403138A0FD000BAADAA /* 8@2x.png in Resources */,
-				7BA22407138A0FD000BAADAA /* 9@2x.png in Resources */,
-				7BA2240B138A0FD000BAADAA /* Back@2x.png in Resources */,
 				7BBFDA3317866DB100463089 /* Media.xcassets in Resources */,
-				7BA2240F138A0FD000BAADAA /* Call@2x.png in Resources */,
 				7B846F0717FC130F00A7C735 /* BackButton.png in Resources */,
-				7BA22411138A0FD000BAADAA /* Call_@2x.png in Resources */,
 				7BA22412138A0FD000BAADAA /* Cards.png in Resources */,
 				7BA22413138A0FD000BAADAA /* Cards@2x.png in Resources */,
 				7BA22414138A0FD000BAADAA /* Checkmark.png in Resources */,
@@ -542,9 +437,6 @@
 				7BA2241D138A0FD000BAADAA /* KeyPad@2x.png in Resources */,
 				7B846F0517FC12F200A7C735 /* BackButton@2x.png in Resources */,
 				7BA2241F138A0FD000BAADAA /* None@2x.png in Resources */,
-				7BA22421138A0FD000BAADAA /* Number@2x.png in Resources */,
-				7BA22423138A0FD000BAADAA /* Plus@2x.png in Resources */,
-				7BA22427138A0FD000BAADAA /* Route@2x.png in Resources */,
 				7BFC8849138A43AF001DFD3C /* 0.aif in Resources */,
 				7BFC884A138A43AF001DFD3C /* 1.aif in Resources */,
 				7BFC884B138A43AF001DFD3C /* 2.aif in Resources */,
@@ -560,21 +452,8 @@
 				7BD45CA114CA3BD4003D0DA1 /* NavigationBar.png in Resources */,
 				7BD45CA214CA3BD4003D0DA1 /* NavigationBar@2x.png in Resources */,
 				7BC2B67A14CA9DB40043B966 /* Background.png in Resources */,
-				7BDB9397160D0EC400E36EB7 /* 1_@2x.png in Resources */,
-				7BE84F5F160D134900ABAAB6 /* 2_@2x.png in Resources */,
-				7BE84F62160D143800ABAAB6 /* 3_@2x.png in Resources */,
-				7BE84F64160D14B700ABAAB6 /* Back_@2x.png in Resources */,
 				7BE84F67160D14C900ABAAB6 /* BorderBottom.png in Resources */,
 				7BE84F68160D14C900ABAAB6 /* BorderTop.png in Resources */,
-				7BE84F6C160D1A0900ABAAB6 /* 0_@2x.png in Resources */,
-				7BE84F6E160D1C8E00ABAAB6 /* 4_@2x.png in Resources */,
-				7BE84F70160D1C9400ABAAB6 /* 5_@2x.png in Resources */,
-				7BE84F72160D1C9900ABAAB6 /* 6_@2x.png in Resources */,
-				7BE84F74160D1C9D00ABAAB6 /* 7_@2x.png in Resources */,
-				7BE84F76160D1CA000ABAAB6 /* 8_@2x.png in Resources */,
-				7BE84F78160D1CA600ABAAB6 /* 9_@2x.png in Resources */,
-				7BE84F7A160D1CB200ABAAB6 /* Plus_@2x.png in Resources */,
-				7BE84F7C160D1CB700ABAAB6 /* Route_@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -589,7 +468,6 @@
 				7B38485B1389F77100BCE643 /* Application.m in Sources */,
 				7BA22387138A096100BAADAA /* FavoritesController.m in Sources */,
 				7BA2238A138A0D6F00BAADAA /* RecentsController.m in Sources */,
-				7BA22395138A0E5100BAADAA /* iOS6_KeyPadController.m in Sources */,
 				7B04229C177D56D100B56BA7 /* UITableViewCell.m in Sources */,
 				7BA2242C138A10A200BAADAA /* CardsController.m in Sources */,
 				7BE30868138A1B2A0061374F /* ContactsController.m in Sources */,
@@ -642,9 +520,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -659,7 +539,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				INFOPLIST_PREPROCESS = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = YES;
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "990CABEB-C5BB-401F-A147-AD99BF215271";
 				SDKROOT = iphoneos;
@@ -671,6 +551,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -680,7 +561,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				INFOPLIST_PREPROCESS = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "990CABEB-C5BB-401F-A147-AD99BF215271";
 				SDKROOT = iphoneos;
@@ -701,7 +582,8 @@
 				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lutzroeder.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -721,7 +603,8 @@
 				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lutzroeder.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -733,6 +616,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = YES;
@@ -743,7 +627,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				INFOPLIST_PREPROCESS = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D5474DEF-8E37-4DED-8F08-479FDD5C8BF2";
 				SDKROOT = iphoneos;
@@ -764,7 +648,8 @@
 				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lutzroeder.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -776,6 +661,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = YES;
@@ -786,7 +672,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				INFOPLIST_PREPROCESS = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "3E68DD91-4B37-4A68-9073-4FCD210F8382";
 				SDKROOT = iphoneos;
@@ -807,7 +693,8 @@
 				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lutzroeder.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;

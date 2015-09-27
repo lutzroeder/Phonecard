@@ -128,7 +128,7 @@
     button.layer.borderColor = [UIColor colorWithWhite:0.271 alpha:1].CGColor;
     button.layer.borderWidth = 1.5f;
 
-    button.titleLabel.textAlignment = UITextAlignmentCenter;
+    button.titleLabel.textAlignment = NSTextAlignmentCenter;
     
     UIFont* titleFont = [UIFont fontWithName:@"HelveticaNeue-Thin" size:36];
     UIFont* subtitleFont = [UIFont fontWithName:@"HelveticaNeue-Light" size:9];
@@ -190,7 +190,7 @@
         
         _phoneNumberLabel = [[KeyPadLabel alloc] init];
         _phoneNumberLabel.frame = phoneNumberLabelRect;
-        _phoneNumberLabel.textAlignment = UITextAlignmentCenter;
+        _phoneNumberLabel.textAlignment = NSTextAlignmentCenter;
         _phoneNumberLabel.textColor = [UIColor blackColor];
         _phoneNumberLabel.font = [UIFont fontWithName:@"HelveticaNeue-Thin" size:36];
         _phoneNumberLabel.backgroundColor = [UIColor clearColor];

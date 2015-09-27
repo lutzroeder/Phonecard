@@ -32,8 +32,8 @@
         headerLabel.shadowColor = [UIColor colorWithWhite:0.9 alpha:1];
         headerLabel.shadowOffset = CGSizeMake(0, 1);
         headerLabel.backgroundColor = [UIColor clearColor];
-        headerLabel.textAlignment = UITextAlignmentCenter;
-        headerLabel.lineBreakMode = UILineBreakModeWordWrap;
+        headerLabel.textAlignment = NSTextAlignmentCenter;
+        headerLabel.lineBreakMode = NSLineBreakByWordWrapping;
         headerLabel.numberOfLines = 2;
         headerLabel.opaque = YES;
         [view addSubview:headerLabel];
@@ -110,7 +110,7 @@
         field.tag = 1;
         field.font = [UIFont systemFontOfSize:28];
         field.textColor = [UIColor colorWithRed:50/255 green:79/255 blue:133/255 alpha:1];
-        field.textAlignment = UITextAlignmentCenter;
+        field.textAlignment = NSTextAlignmentCenter;
         field.contentHorizontalAlignment = UIControlContentHorizontalAlignmentCenter;
         field.contentVerticalAlignment = UIControlContentVerticalAlignmentCenter;
         field.autocorrectionType = UITextAutocorrectionTypeNo;

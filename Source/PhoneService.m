@@ -23,7 +23,7 @@
 + (NSString*) getPauseString:(NSString*)length
 {
     NSString* version = [[UIDevice currentDevice] systemVersion];
-    BOOL useComma = ([version compare:@"5.0" options:NSNumericSearch] != NSOrderedAscending);
+    BOOL useComma = [version hasPrefix:@"5."] || [version hasPrefix:@"6."] || [version hasPrefix:@"7."] || [version hasPrefix:@"8."];
     
     int count;
     if (![[NSScanner scannerWithString:length] scanInt:&count])

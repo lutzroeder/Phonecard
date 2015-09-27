@@ -38,7 +38,7 @@
 - (void) cancelButtonClick:(id)sender
 {
     [self stopActivityIndicator];
-    [self.navigationController dismissModalViewControllerAnimated:YES];
+    [self.navigationController dismissViewControllerAnimated:YES completion:nil];
 }
 
 - (void) actionButtonClick:(id)sender
